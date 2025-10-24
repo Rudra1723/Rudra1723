@@ -77,13 +77,6 @@ Hi there! I'm **Rudra Patel**, a passionate software developer and cloud enthusi
 - Hands-free system control using voice commands and **SpeechRecognition**.
 - Built interactive GUI using Tkinter with real-time feedback.
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra1723" />
-</p>
 
 ---
 
